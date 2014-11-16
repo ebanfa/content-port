@@ -1,0 +1,1 @@
+Essay Firm, Payment received confirmation from [+first_name+] for order: [+order_no+]

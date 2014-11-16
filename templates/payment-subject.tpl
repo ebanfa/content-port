@@ -1,0 +1,1 @@
+[+first_name+], your payment has been received.
